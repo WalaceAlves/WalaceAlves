@@ -4,7 +4,7 @@ Hi 👋 My name is Walace Alves
 Business Inteligenece
 ----------------------
 
-I'm trying to move to technology area, I'm studing a lot about Python, Power BI and front-end. I have a degenrrative disorder called Ataxia that have affected my locomotor system.
+I'm trying to move to technology area, I'm studing a lot about Python, Power BI and front-end. I have a degenerative disorder called Ataxia that have affected my locomotor system.
 
 *   🌍  I'm based in Porto
 *   ✉️  You can contact me at [walacealves.mvn@gmail.com](mailto:walacealves.mvn@gmail.com)
