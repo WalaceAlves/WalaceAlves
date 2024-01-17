@@ -1,7 +1,7 @@
 Hi 👋 My name is Walace Alves
 =============================
 
-Business Inteligenece
+Business Inteligence
 ----------------------
 
 I'm trying to move to technology area, I'm studing a lot about Python, Power BI and front-end. I have a degenerative disorder called Ataxia that have affected my locomotor system.
