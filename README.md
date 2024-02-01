@@ -13,20 +13,25 @@ Proficient in Microsoft Office suite
 
 
 🌍 Location:
+
 Based in Porto
 
 
 ✉️ Contact:
+
 Email: walacealves.mvn@gmail.com
 
 
 🚀 Current Focus:
+
 Actively learning and mastering Python, Power BI, and Microsoft Office tools
 
 🤝 Collaboration:
+
 Open to collaborating on intriguing projects that align with my skill set
 
 ⚡ Professional Background:
+
 Brazilian professional with a wealth of experience
 
 Aged 53 and well-versed in diverse roles within multinational enterprises
@@ -35,12 +40,14 @@ Accomplished writer, bringing a unique perspective to projects
 
 
 💡 Aspirations:
+
 Eager to contribute my skills to innovative projects
 
 Continuously seeking growth opportunities in the technology sector
 
 
 📚 Educational Pursuits:
+
 Constantly pursuing knowledge and staying updated with the latest industry trends
 
 
