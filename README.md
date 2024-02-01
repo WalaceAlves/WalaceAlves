@@ -45,6 +45,7 @@ Constantly pursuing knowledge and staying updated with the latest industry trend
 
 
 🌐 Tech Interests:
+
 Python enthusiast
 
 Exploring opportunities in Google Cloud
