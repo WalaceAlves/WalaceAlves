@@ -1,15 +1,42 @@
 Hi 👋 My name is Walace Alves
 =============================
 
-Business Inteligence
-----------------------
+A seasoned professional transitioning into the dynamic field of technology. Currently immersed in the realms of Python, Power BI, and front-end development, I am passionate about leveraging technology to drive impactful solutions.
 
-I'm trying to move to technology area, I'm studing a lot about Python, Power BI and front-end. I have a degenerative disorder called Ataxia that have affected my locomotor system.
+🧠 Skillset:
 
-*   🌍  I'm based in Porto
-*   ✉️  You can contact me at [walacealves.mvn@gmail.com](mailto:walacealves.mvn@gmail.com)
-*   🧠  I'm learning Python, Power BI, Microsoft Office
-*   🤝  I'm open to collaborating on Interesting projects
-*   ⚡  I'm Brazilian, 53, and worked for many multinationals entreprises., I'm a writer also.
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+Proficient in Python programming
+Expertise in Power BI for data visualization
+Proficient in Microsoft Office suite
+
+🌍 Location:
+Based in Porto
+
+✉️ Contact:
+Email: walacealves.mvn@gmail.com
+
+🚀 Current Focus:
+Actively learning and mastering Python, Power BI, and Microsoft Office tools
+
+🤝 Collaboration:
+Open to collaborating on intriguing projects that align with my skill set
+
+⚡ Professional Background:
+Brazilian professional with a wealth of experience
+Aged 53 and well-versed in diverse roles within multinational enterprises
+Accomplished writer, bringing a unique perspective to projects
+
+💡 Aspirations:
+Eager to contribute my skills to innovative projects
+Continuously seeking growth opportunities in the technology sector
+
+📚 Educational Pursuits:
+Constantly pursuing knowledge and staying updated with the latest industry trends
+
+🌐 Tech Interests:
+Python enthusiast
+Exploring opportunities in Google Cloud
+
+🖋️ Personal Note:
+Despite facing challenges due to Ataxia, I am resilient and committed to making significant contributions in the technology space.
+Let's connect and explore the exciting possibilities at the intersection of technology and innovation!
