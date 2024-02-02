@@ -24,7 +24,7 @@ Email: walacealves.mvn@gmail.com
 
 🚀 Current Focus:
 
-Actively learning and mastering Python, Power BI, and Microsoft Office tools
+Actively learning and mastering Python, Power BI, Terraform, Dockers, Kubernetes and Microsoft Office tools
 
 🤝 Collaboration:
 
