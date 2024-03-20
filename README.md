@@ -34,7 +34,7 @@ Open to collaborating on intriguing projects that align with my skill set
 
 Brazilian professional with a wealth of experience
 
-Aged 53 and well-versed in diverse roles within multinational enterprises
+Aged 54 and well-versed in diverse roles within multinational enterprises
 
 Accomplished writer, bringing a unique perspective to projects
 
@@ -55,7 +55,14 @@ Constantly pursuing knowledge and staying updated with the latest industry trend
 
 Python enthusiast
 
+studying javascript, HTML and CSS
+
 Exploring opportunities in Google Cloud
+
+![[Badge for Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+![[Badge for HTML](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+![[Badge for CSS](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 
 🖋️ Personal Note:
