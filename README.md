@@ -34,7 +34,7 @@ Open to collaborating on intriguing projects that align with my skill set
 
 Brazilian professional with a wealth of experience
 
-Aged 56and well-versed in diverse roles within multinational enterprises
+Aged 56 and well-versed in diverse roles within multinational enterprises
 
 Accomplished writer, bringing a unique perspective to projects
 
