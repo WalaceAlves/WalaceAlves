@@ -32,7 +32,7 @@ Profissional experiente em transição para a área de Tecnologia. Com uma bagag
 
 ### 🚀 Projetos em Destaque
 
-*   **[Plataforma de Ensino](link_do_repositorio)**: API REST para uma plataforma de aprendizagem online, com gestão de cursos, alunos, matrículas e certificados. Desenvolvido com Java, Spring Boot, JPA e autenticação JWT.
+*   **[Plataforma de Ensino][(link_do_repositorio)](https://github.com/WalaceAlves/Plataforma_Ensino_BackEnd.git)**: API REST para uma plataforma de aprendizagem online, com gestão de cursos, alunos, matrículas e certificados. Desenvolvido com Java, Spring Boot, JPA e autenticação JWT.
 *   **[Sistema de Feedback Corporativo][(link_do_repositorio)](https://github.com/UpAcademy-pt/Sistema_de_Feedback_para_Empresas_BackEnd.git)**: Aplicação Full Stack para gestão de feedbacks internos de empresas. Frontend em Angular com foco em Dark Mode e acessibilidade, Backend em Java.
 
 ---
