@@ -6,7 +6,7 @@ Profissional experiente em transição para a área de Tecnologia. Com uma bagag
 
 📍 **Localização:** Porto, Portugal  
 ✉️ **Contacto:** [walacealves.mvn@gmail.com](mailto:walacealves.mvn@gmail.com)  
-🔗 **LinkedIn:** [WalaceAlves](https://www.linkedin.com/in/WalaceAlves/)
+🔗 **LinkedIn:** [Walace Alves](https://www.linkedin.com/in/WalaceAlves/)
 
 ---
 
@@ -32,10 +32,14 @@ Profissional experiente em transição para a área de Tecnologia. Com uma bagag
 
 ### 🚀 Projetos em Destaque
 
-*   **[Plataforma de Ensino][(link_do_repositorio)](https://github.com/WalaceAlves/Plataforma_Ensino_BackEnd.git)**: API REST para uma plataforma de aprendizagem online, com gestão de cursos, alunos, matrículas e certificados. Desenvolvido com Java, Spring Boot, JPA e autenticação JWT.
-*   **[Plataforma de Ensino][(link_do_repositorio)](https://github.com/WalaceAlves/Plataforma_Ensino_FrontEnd.git)**   
-*   **[Sistema de Feedback Corporativo][(link_do_repositorio)](https://github.com/UpAcademy-pt/Sistema_de_Feedback_para_Empresas_BackEnd.git)**: Aplicação Full Stack para gestão de feedbacks internos de empresas. Frontend em Angular com foco em Dark Mode e acessibilidade, Backend em Java.
-*   **[Sistema de Feedback Corporativo][(link_do_repositorio)](https://github.com/UpAcademy-pt/Sistema_de_Feedback_para_Empresas_FrontEnd.git)**
+*   **[Plataforma de Ensino](https://github.com/WalaceAlves/Plataforma_Ensino_FrontEnd.git)**
+    *   *API REST (Backend):* [Link do Repositório](https://github.com/WalaceAlves/Plataforma_Ensino_BackEnd.git) - Gestão de cursos, alunos, matrículas e certificados. Desenvolvido com Java, Spring Boot, JPA e autenticação JWT.
+    *   *Interface (Frontend):* [Link do Repositório](https://github.com/WalaceAlves/Plataforma_Ensino_FrontEnd.git) - Desenvolvido em Angular.
+
+*   **[Sistema de Feedback Corporativo](https://github.com/UpAcademy-pt/Sistema_de_Feedback_para_Empresas_FrontEnd.git)**
+    *   *API REST (Backend):* [Link do Repositório](https://github.com/UpAcademy-pt/Sistema_de_Feedback_para_Empresas_BackEnd.git) - Gestão de feedbacks internos. Backend em Java e Spring Boot.
+    *   *Interface (Frontend):* [Link do Repositório](https://github.com/UpAcademy-pt/Sistema_de_Feedback_para_Empresas_FrontEnd.git) - Frontend em Angular com foco em Dark Mode e acessibilidade.
+
 ---
 
 ### 💡 Sobre mim
